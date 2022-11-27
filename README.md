@@ -1,4 +1,9 @@
 ### Hi there 👋
+My name is Mohammad Mirzaei Barazi.
+I am mechanical engineer and also I'm intrested in programing , web developing , IoT , and so on ...
+I use TS/JS in web deloping and Python in mechanic.
+I'm trying to know more about technologies.
+You can contact me via "mrbarazi.97@gmail.com".
 
 <!--
 **mrbarazi-97/mrbarazi-97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
